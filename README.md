@@ -2,7 +2,6 @@
 Intel Unnati Industrial Training Programme - Problem Statement - PS04 -  Introduction to GenAI and Simple LLM Inference on CPU and finetuning of LLM Model to create a Custom Chatbot
 
 
-
 # Custom Chatbot with Intel Extension for Transformers
 
 This repository contains code to fine-tune a language model using the Intel Extension for Transformers and create a custom chatbot using the fine-tuned model.
@@ -18,8 +17,8 @@ This repository contains code to fine-tune a language model using the Intel Exte
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/umeshgjh/GenAI-CHATBOT.git
+   cd GenAI-CHATBOT
    ```
 
 2. Install dependencies:
@@ -46,7 +45,7 @@ This repository contains code to fine-tune a language model using the Intel Exte
 
 ## Fine-tuning the Model
 
-1. **Prepare Data**: Ensure your dataset is prepared as per the requirements of the `intel-extension-for-transformers`.
+1. **Prepare Data**: Ensure your dataset is prepared as per the requirements of the Intel Extension for Transformers.
 
 2. **Fine-tune the Model**:
 
@@ -62,7 +61,7 @@ This repository contains code to fine-tune a language model using the Intel Exte
 
    Load the fine-tuned model and tokenizer to interact with the chatbot. Adjust paths and configurations based on your fine-tuning output.
 
-   ```python
+   ```bash
    python intel.py
    ```
 
@@ -76,10 +75,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project uses the Intel Extension for Transformers for optimizing model performance.
 
-
 ## Troubleshooting
 
-- If you encounter issues during installation or running the scripts, refer to the Troubleshooting section in the README or consult the project documentation.
+If you encounter issues during installation or running the scripts, refer to the Troubleshooting section in the README or consult the project documentation.
 
 ---
 

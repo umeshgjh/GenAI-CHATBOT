@@ -1,9 +1,7 @@
 # GenAI-CHATBOT
 Intel Unnati Industrial Training Programme - Problem Statement - PS04 -  Introduction to GenAI and Simple LLM Inference on CPU and finetuning of LLM Model to create a Custom Chatbot
 
-Creating a GitHub README file for your project involves summarizing the project, providing setup instructions, and guiding users on how to use your code effectively. Below is a template for your GitHub README file based on your project scenario:
 
----
 
 # Custom Chatbot with Intel Extension for Transformers
 

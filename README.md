@@ -53,10 +53,8 @@ This repository contains code to fine-tune a language model using the Intel Exte
    Use the provided script to fine-tune a language model using the Intel Extension for Transformers. Modify the paths and configurations as needed.
 
    ```bash
-   python fine_tune_model.py
+   python finetune.py
    ```
-
-   Replace `fine_tune_model.py` with the actual script you use for fine-tuning.
 
 ## Using the Custom Chatbot
 
